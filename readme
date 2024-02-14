@@ -1,0 +1,30 @@
+Prueba RPA
+
+Ejercicios planteados en la prueba para desarollo RPA
+
+Tecnología: Java
+
+Autor: Juan Esteban Marin Gallego
+
+Contacto: juanestebanmarin78@gmail.com
+
+instrucciones
+
+Descargar el proyecto desde GitHub.
+Compilar el proyecto Java Con un compilador para el lenguaje, puede ser netbeans o eclipse
+Ejecutar cada ejercicio en su clase main
+
+Ejercicio 1
+Introducir el numero para la serie
+Introducir el numero de terminos a sumar
+Presiona enter para obtener el resultado.
+Ejercicio 2
+Introducir una lista de numeros separados por coma (,)
+Presiona enter para obtener los numeros de la lista que cumplian con las condiciones expresadas en la prueba
+Ejercicio 3
+Introducir la lista para agrupar los numeros
+Presiona enter para obtener un arreglo con los numeros repetidos agrupados
+Ejercicio 4
+Introducir una opcion del menu para realizar el proceso
+Introducir valores a sumar en el caso de que se requiera agregar a un producto
+
